@@ -1,0 +1,9 @@
+{
+  "name": "@study/p-b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@study/p-a": "1.0.0"
+  }
+}
